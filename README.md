@@ -7,3 +7,16 @@ Natural disasters are an increasing phenomenon clearly perceived and known to ha
 Natural disasters cause massive casualties, damages and leave many injured. Human beings cannot stop them but timely prediction and due safety measures can prevent loss of human lives and many precious objects can be saved. The main focus of this project is on the application of data-driven models in the context of real-time forecasting of the damages.
 
 This section follows an implementation plan which includes Data Selection, Data Preprocessing and Visualization, Application of Artificial Neural Networks, and its performance evaluation.
+
+Packages Required
+1) Pandas
+2) numpy
+3) Seaborn
+4) datetime
+5) time
+6) matplotlib
+7) Squarify
+8) Plotly
+9) Scikit Learn
+10) Keras
+11) Category Encoder
